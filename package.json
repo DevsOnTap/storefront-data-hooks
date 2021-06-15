@@ -1,8 +1,8 @@
 {
-  "name": "@bigcommerce/storefront-data-hooks",
+  "name": "@devsontap/bigcommerce-storefront-data-hooks",
   "version": "1.4.0",
   "main": "index.js",
-  "repository": "git@github.com:bigcommerce/storefront-data-hooks.git",
+  "repository": "git@github.com:DevsOnTap/storefront-data-hooks.git",
   "license": "MIT",
   "files": [
     "*.js",
